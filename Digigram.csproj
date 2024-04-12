@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\bootstrap.css" />
+    <None Include="wwwroot\css\maicons.css" />
+    <None Include="wwwroot\css\theme.css" />
+    <None Include="wwwroot\fonts\maicons.eot" />
+    <None Include="wwwroot\fonts\maicons.svg" />
+    <None Include="wwwroot\fonts\maicons.ttf" />
+    <None Include="wwwroot\fonts\maicons.woff" />
+    <None Include="wwwroot\img\bg_image_1.png" />
+    <None Include="wwwroot\img\bg_image_2.png" />
+    <None Include="wwwroot\img\bg_image_3.png" />
+    <None Include="wwwroot\img\blog\blog-1.jpg" />
+    <None Include="wwwroot\img\blog\blog-2.jpg" />
+    <None Include="wwwroot\img\blog\blog-3.jpg" />
+    <None Include="wwwroot\img\clients\airbnb.png" />
+    <None Include="wwwroot\img\clients\google.png" />
+    <None Include="wwwroot\img\clients\mailchimp.png" />
+    <None Include="wwwroot\img\clients\paypal.png" />
+    <None Include="wwwroot\img\clients\stripe.png" />
+    <None Include="wwwroot\img\icon_pattern.svg" />
+    <None Include="wwwroot\img\person\person_1.jpg" />
+    <None Include="wwwroot\img\person\person_2.jpg" />
+    <None Include="wwwroot\img\person\person_3.jpg" />
+    <None Include="wwwroot\img\testi_image.png" />
+    <None Include="wwwroot\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\js\google-maps.js" />
+    <None Include="wwwroot\js\jquery-3.5.1.min.js" />
+    <None Include="wwwroot\js\theme.js" />
+    <None Include="wwwroot\js\jquery.animateNumber.js" />
+    <None Include="wwwroot\css\animate.css" />
+    <None Include="wwwroot\css\owl.carousel.css" />
+    <None Include="wwwroot\js\owl.carousel.min.js" />
+    <None Include="wwwroot\js\jquery.waypoints.min.js" />
+    <None Include="wwwroot\js\wow.min.js" />
+  </ItemGroup>
+
+</Project>
